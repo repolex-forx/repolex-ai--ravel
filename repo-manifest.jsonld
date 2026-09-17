@@ -1,0 +1,15 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/repolex-ai/ravel",
+  "@type": "gh:Repository",
+  "gh:name": "ravel",
+  "gh:owner": "repolex-ai",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/eeae5be8f1afcd88f0029d670ac1120f967ae87d",
+      "git:hexsha": "eeae5be8f1afcd88f0029d670ac1120f967ae87d",
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-09-17T07:19:39.416053+00:00"
+    }
+  ]
+}
