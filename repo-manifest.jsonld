@@ -16,6 +16,11 @@
       "git:hexsha": "04c5bf0051b5e5d41e489be6bd9c0af262ac3acc",
       "repolex:parseStatus": "parsed",
       "repolex:parsedAt": "2026-09-17T07:49:00.971888+00:00"
+    },
+    {
+      "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/440571b158f984edb365a7fe885b6bae0a1d6386",
+      "git:hexsha": "440571b158f984edb365a7fe885b6bae0a1d6386",
+      "repolex:parseStatus": "metadata_complete"
     }
   ]
 }
