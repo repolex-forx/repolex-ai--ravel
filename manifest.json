@@ -403,7 +403,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spareval-0.2.6/src/model.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/e897e6be7f7e37124f256dd950d61ca2f2e72213/chunk-001.nq.gz",
+      "dep": "dep/e897e6be7f7e37124f256dd950d61ca2f2e72213.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
