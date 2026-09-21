@@ -288,6 +288,121 @@
       ],
       "ast": [
         "aggregate/ast/e897e6be7f7e37124f256dd950d61ca2f2e72213/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e897e6be7f7e37124f256dd950d61ca2f2e72213.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "oxigraph",
+          "ecosystem": "CARGO",
+          "version": "0.5.6",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubCommit": "45e892308368d8b2c271d06dc04de17dfb6de80f",
+          "githubTag": "v0.5.6",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/main/lib/oxigraph",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "chrono",
+          "ecosystem": "CARGO",
+          "version": "0.4",
+          "githubOrg": "chronotope",
+          "githubRepo": "chrono",
+          "githubUrl": "https://github.com/chronotope/chrono",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "anyhow",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "dtolnay",
+          "githubRepo": "anyhow",
+          "githubUrl": "https://github.com/dtolnay/anyhow",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "sha2",
+          "ecosystem": "CARGO",
+          "version": "0.10",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "hashes",
+          "githubUrl": "https://github.com/RustCrypto/hashes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "digest",
+          "ecosystem": "CARGO",
+          "version": "0.10.7",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "traits",
+          "githubUrl": "https://github.com/RustCrypto/traits",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.10.7/src/digest.rs"
+        },
+        {
+          "packageName": "oxrdfio",
+          "ecosystem": "CARGO",
+          "version": "0.2.5",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubCommit": "a21dcbb4f7355d7a00a86fbc5ad2c350a53629c4",
+          "githubTag": "v0.2.5",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/master/lib/oxrdfxml",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/oxrdfio-0.2.5/src/serializer.rs"
+        },
+        {
+          "packageName": "sparesults",
+          "ecosystem": "CARGO",
+          "version": "0.3.3",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubCommit": "c7c82c06dbaf410b5564dcf27f8744cc485b7e93",
+          "githubTag": "v0.3.3",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/main/lib/sparesults",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sparesults-0.3.3/src/solution.rs"
+        },
+        {
+          "packageName": "oxrdf",
+          "ecosystem": "CARGO",
+          "version": "0.3.3",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubCommit": "c7c82c06dbaf410b5564dcf27f8744cc485b7e93",
+          "githubTag": "v0.3.3",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/main/lib/oxrdf",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/oxrdf-0.3.3/src/literal.rs"
+        },
+        {
+          "packageName": "spareval",
+          "ecosystem": "CARGO",
+          "version": "0.2.6",
+          "githubOrg": "oxigraph",
+          "githubRepo": "oxigraph",
+          "githubUrl": "https://github.com/oxigraph/oxigraph/tree/main/lib/spareval",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spareval-0.2.6/src/model.rs"
+        }
       ]
     }
   ],

@@ -25,7 +25,7 @@
     {
       "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/e897e6be7f7e37124f256dd950d61ca2f2e72213",
       "git:hexsha": "e897e6be7f7e37124f256dd950d61ca2f2e72213",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "enrich_complete"
     }
   ]
 }
