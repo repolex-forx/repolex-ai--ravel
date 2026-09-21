@@ -1,0 +1,7 @@
+[2026-09-21T04:35:49Z] === AST ITERATION 1 START | repo=repolex-ai/ravel sha=e897e6be ===
+[2026-09-21T04:35:49Z] [iter=1] PHASE START: ast repo=repolex-ai/ravel sha=e897e6be
+[2026-09-21T04:35:49Z] [iter=1] Building AST aggregate chunks
+[2026-09-21T04:36:10Z] [iter=1] AST chunks built count=1 triples=234314
+[2026-09-21T04:36:10Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e897e6be7f7e37124f256dd950d61ca2f2e72213/.complete
+[2026-09-21T04:36:10Z] [iter=1] PHASE END: ast elapsed_s=21 elapsed_min=0.3
+[2026-09-21T04:36:10Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
