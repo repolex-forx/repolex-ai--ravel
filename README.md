@@ -38,24 +38,32 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 29ff722b9109f8c418fd9848cf33fae3a9377550
+│   │   │   └── chunk-001.nq.gz
 │   │   └── e897e6be7f7e37124f256dd950d61ca2f2e72213
 │   │       └── chunk-001.nq.gz
 │   ├── lsp
+│   │   ├── 29ff722b9109f8c418fd9848cf33fae3a9377550.nq.gz
 │   │   └── e897e6be7f7e37124f256dd950d61ca2f2e72213.nq.gz
 │   └── repolex
+│       ├── 29ff722b9109f8c418fd9848cf33fae3a9377550
+│       │   └── chunk-001.nq.gz
 │       └── e897e6be7f7e37124f256dd950d61ca2f2e72213
 │           └── chunk-001.nq.gz
 ├── blob
 │   ├── 034c610993a340de4eb3c29abf105976f81727cc.nq.gz
 │   ├── 0394b5aee175663c394f24283c567012339873ee.nq.gz
 │   ├── 048f73ebbe49e8894e643a9c6c88a1e765c2605a.nq.gz
+│   ├── 089cfd8a37bb014f4fdb12370c1f5e24bb7e1319.nq.gz
 │   ├── 0f17b700ea47aacd7ee15e1c01d332d9d1840357.nq.gz
 │   ├── 15bf220689ed6869f2fcae59777ccb20f7c46bf3.nq.gz
 │   ├── 1690588e060d3fae63f429d1f0efa4a746528dc9.nq.gz
 │   ├── 1dfcffe3d90bb96e16085784c86a9746b75c5378.nq.gz
+│   ├── 1fbe6f384280a3d709d355a0e0cd660ffc19cd17.nq.gz
 │   ├── 21c0fc1ae6686e2a184ee5a4166cdf019602cf1e.nq.gz
 │   ├── 24889ed6a251d524a93ca47c9cbc69cd7632c408.nq.gz
 │   ├── 24d624ee78a7433c1e45d63555bedb3b9d849e32.nq.gz
+│   ├── 2619d896da89e888e5c9073bbbc02287d30fde86.nq.gz
 │   ├── 2623915bf44508edf60ca3ab89dd9022ecf2bad8.nq.gz
 │   ├── 2bcb8dbd5c2c4c8bcc11e7b74df23b3960ba7951.nq.gz
 │   ├── 2c0c289405695f8bc3af5c378f95c1ee453cfa1d.nq.gz
@@ -63,10 +71,14 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 2ead27f62d13aac88d706bad7e1bae1fd920cd82.nq.gz
 │   ├── 303222868033af4f7aec0afdf04aea692973c214.nq.gz
 │   ├── 32acacafb3af0605d678da827dc6d81986c7b5ee.nq.gz
+│   ├── 330bb1a87ad0bd62abb4dd8e5db8ddc1865fa38e.nq.gz
 │   ├── 3bbac967b48507749c3b58316166326bb2269929.nq.gz
 │   ├── 3ca4e0ea36cf9b1b388741e7c42785a4ed9af214.nq.gz
 │   ├── 41e80417be169cd71cd726fdc28db4ec6d3dc201.nq.gz
 │   ├── 44ec5e9011dc98aca691318662f9b11621fcdaf9.nq.gz
+│   ├── 4c26205b8d6b4371bc2b3a7bcfd9cb8afa1c99bc.nq.gz
+│   ├── 4ebadee8b270e70199c61cc048c69d93ebf6163c.nq.gz
+│   ├── 50b376d3d641937fcf9f7310ec97659afab0ec3d.nq.gz
 │   ├── 51fec3da0d74a6d6d65485713614c0421263f319.nq.gz
 │   ├── 545a2678950c4982148466995a45622efe43794a.nq.gz
 │   ├── 54fc25d76d4f2aff2958589ce3502ca518e2aa2c.nq.gz
@@ -84,15 +96,23 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 72a8e4d2d56ca5d32a1d9f23f1454f6d32bc7278.nq.gz
 │   ├── 73cb480f84981e7d4751af4de287fc2e395109ac.nq.gz
 │   ├── 7b7ecf8b5bcf8db14633bc89d472286f16fd18a6.nq.gz
+│   ├── 7df080f9699abebf58df44f94d995dfc7416dba7.nq.gz
 │   ├── 7ec0364e0aa5e1e09454036c6ad5eb093b0e6de3.nq.gz
 │   ├── 7f36e76a580f4f217db57c8be39b1050496a7625.nq.gz
+│   ├── 7f9441ab84b0334c98417e02f39ba423614e6e6b.nq.gz
+│   ├── 82d1997a2f0c8a8197dd663481d7b96a544dafb8.nq.gz
+│   ├── 84ff3e9c127d718cfe1ee0d4390aecb65cb56e03.nq.gz
+│   ├── 853474417f27af9ed01aa88e2a0e85fb6fd409be.nq.gz
+│   ├── 86ba18b6150510a64c187ec40a6e2e2937710aa7.nq.gz
 │   ├── 8f9843f952310575bef5cdaaeb4ee159e80616ec.nq.gz
+│   ├── 8fda86c6d59c3a9e4d9ddfdf20f6cfe2e26f485c.nq.gz
 │   ├── 921ee595ec6543039c0739a6df6bad23d3d45b7f.nq.gz
 │   ├── 9519b4b264639bb6c35053e5493d4450cf1fff61.nq.gz
 │   ├── 96702f12f71bb64a3e65c4e915fb98f5e091a4eb.nq.gz
 │   ├── 96d8ae0a247329d0e52ce6867d4bdae8adf3c9bc.nq.gz
 │   ├── 9d41ca8e45ebcf651679c74e5d27e0b96280d2ca.nq.gz
 │   ├── a20439f54e41923a9452651d876d02b3e5c78320.nq.gz
+│   ├── a4771b86181301a59593c95cd2078d2448398f02.nq.gz
 │   ├── a4f0896e6cc03d6236fce354b62fe52e3c01c133.nq.gz
 │   ├── a882b947b6bc764d4b31145e3f447a9705ac7a88.nq.gz
 │   ├── a8b5b3f492dd2d7d946737710348e880c76644d4.nq.gz
@@ -101,6 +121,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── b4488ee469d03c46331d0226b437df13ce8e6e22.nq.gz
 │   ├── b5036211108c8863d5a1e71bbf7ea12ad88cb7ce.nq.gz
 │   ├── b604758207881bd3e1da5a024745c35e25207236.nq.gz
+│   ├── b64795bc95835172e2e69027277a5f3f81b90a26.nq.gz
+│   ├── b6f998d7f094aa68b557ed26df8537766fc48276.nq.gz
 │   ├── b7753af4311b2b026b9e9650507c4d518b6a5683.nq.gz
 │   ├── bdf96bca773f9d5f483b08abf09fbcc7ddda9260.nq.gz
 │   ├── be1cc16d7c47e563e04a28a381a5bc17cced20e8.nq.gz
@@ -111,9 +133,11 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── d02c397009322e18688dccf5e5c7891a403004d2.nq.gz
 │   ├── d1cc0c3bd382b1d9ef16a50eddaa7fb448871914.nq.gz
 │   ├── d894b39182ee97bc20bc0e14c77f49c4467e0eca.nq.gz
+│   ├── d9ab5145ea0090bee6be09034cd856d352dc6ab7.nq.gz
 │   ├── e4fba2183587225f216eeada4c78dfab6b2e65f5.nq.gz
 │   ├── e620efb55ce8af24610b0a23651b1cec03f2d994.nq.gz
 │   ├── e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz
+│   ├── eb4f5ad5e2a1aa2fca7a61ef925183c190c7a715.nq.gz
 │   ├── f59a13503da90b23dc11211849eeef7e3deccc72.nq.gz
 │   ├── f8388db74802590bfb68a4afc8e341e50b752079.nq.gz
 │   ├── f8770df9c9ea282494b0539d448cc000af38b789.nq.gz
@@ -126,16 +150,22 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 ├── commit
 │   └── commit.nq.gz
 ├── dep
+│   ├── 29ff722b9109f8c418fd9848cf33fae3a9377550.nq.gz
 │   └── e897e6be7f7e37124f256dd950d61ca2f2e72213.nq.gz
 ├── filetree
 │   ├── 04c5bf0051b5e5d41e489be6bd9c0af262ac3acc.nq.gz
+│   ├── 29ff722b9109f8c418fd9848cf33fae3a9377550.nq.gz
 │   ├── 440571b158f984edb365a7fe885b6bae0a1d6386.nq.gz
+│   ├── d8b1e0d92487eafa893ce41d656b9cee8bf686eb.nq.gz
+│   ├── e3f901bcd25862caf3a86c411cec0aa1135b2a9c.nq.gz
 │   ├── e897e6be7f7e37124f256dd950d61ca2f2e72213.nq.gz
 │   └── eeae5be8f1afcd88f0029d670ac1120f967ae87d.nq.gz
+├── issue
+│   └── issue.nq.gz
 └── tag
     └── tag.nq.gz
 
-13 directories, 86 files
+16 directories, 113 files
 ```
 
 | Directory | What it contains |
@@ -155,4 +185,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [repolex-ai/ravel](https://github.com/repolex-ai/ravel)
 
 ---
-*Parsed on 2026-09-21 by [repolex](https://repolex.ai)*
+*Parsed on 2026-09-24 by [repolex](https://repolex.ai)*
