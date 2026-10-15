@@ -165,8 +165,8 @@
       "repolex:parseStatus": "metadata_complete"
     },
     {
-      "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/aa876fc6520006cd384b873351dde8c3d35e34b8",
-      "git:hexsha": "aa876fc6520006cd384b873351dde8c3d35e34b8",
+      "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/3040da9450ffc4ba4570e70b26e3facbea069efe",
+      "git:hexsha": "3040da9450ffc4ba4570e70b26e3facbea069efe",
       "repolex:parseStatus": "metadata_complete"
     }
   ]
