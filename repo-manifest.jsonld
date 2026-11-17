@@ -228,6 +228,11 @@
       "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/5b18273d0b6e589003ed64e74e624c75a1bb65b0",
       "git:hexsha": "5b18273d0b6e589003ed64e74e624c75a1bb65b0",
       "repolex:parseStatus": "metadata_complete"
+    },
+    {
+      "@id": "https://repolex.ai/r/repolex-ai/ravel/commit/cfbbd07af2c3fcb87990d5d61c5683683e788269",
+      "git:hexsha": "cfbbd07af2c3fcb87990d5d61c5683683e788269",
+      "repolex:parseStatus": "metadata_complete"
     }
   ]
 }
